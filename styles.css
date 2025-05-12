@@ -9,7 +9,7 @@
 .wrapping {
     height: 100vh;
     width: 100vw;
-  
+
 }
 
 .left {
@@ -39,7 +39,7 @@ p {
 }
 
 h1 {
-   margin-left: 5%;
+    margin-left: 5%;
     margin-top: 20%;
     width: 368px;
     color: #5D5D7D;
@@ -98,7 +98,7 @@ a:nth-child(2) {
         width: 100%;
         display: block;
         padding: 0;
-       
+
     }
 
     .right {
@@ -106,9 +106,9 @@ a:nth-child(2) {
         width: 100%;
         display: block;
         padding: 0;
-        left: 2%;
-       
-     
+        
+
+
     }
 
     header {
@@ -116,36 +116,37 @@ a:nth-child(2) {
     }
 
     img {
-       
-       position: absolute;
-        bottom: 0;
-       width: 300px;
+
+        position: absolute;
+        top: 55%;
+        width: 300px;
         height: 400px;
-       left:10%;
+        left: 20%;
     }
 
-   h1{
-    font-size: 36px;
-    text-align: center;
-    width: 268px;
-    line-height: 52px;
-    margin-left: 20%;
-    margin-top: 20%;
-   }
+    h1 {
+        font-size: 36px;
+        text-align: center;
+        width: 268px;
+        line-height: 52px;
+        margin-left: 15%;
+        margin-top: 20%;
+    }
 
     p {
         width: 296px;
         color: #5D5D7D;
-        text-align: center;   
+        text-align: center;
         font-size: 14px;
         font-style: normal;
         font-weight: 400;
         line-height: 24px;
         text-align: center;
         margin-top: 1%;
-        margin-left: 20%;
+        margin-left: 15%;
     }
-    button{
-        margin-left: 22%;
+
+    button {
+        margin-left: 18%;
     }
 }
