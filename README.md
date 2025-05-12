@@ -15,3 +15,10 @@ Este é um projeto de site responsivo criado para praticar e demonstrar habilida
 - Tipografia e cores agradáveis
 - Imagens redimensionáveis
 
+- ## Versão desktop
+- <img src=""/> 
+- ## Versão smartphone
+- <img src=""/> 
+
+
+
