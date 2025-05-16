@@ -19,6 +19,6 @@ Este é um projeto de site responsivo criado para praticar e demonstrar habilida
 - <img src="https://github.com/Andrecruzac85/Easy-Shopping/blob/main/assets/shopping%20desktop.png?raw=true"/> 
 - ## Versão smartphone
 - <img src="https://github.com/Andrecruzac85/Easy-Shopping/blob/main/assets/shopping%20cell.png?raw=true"/> 
-
+<img scr="https://github.com/Andrecruzac85/projeto-nike/blob/main/assets/nike%203.png?raw=true"/>
 
 
